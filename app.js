@@ -12,6 +12,6 @@ app.use(sturouter);
 
 
 //监听
-app.listen(8000,(req,res)=>{
+app.listen(8000,(req,res) => {
     console.log('访问：http://localhost:8000')
 })
